@@ -1,16 +1,39 @@
-### Hi there 👋
+## Greetings! 👋
 
-<!--
-**200Tigersbloxed/200Tigersbloxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 200Tigersbloxed, but you can refer to me as Tigers for short. I only know English, so anything in another language is going straight to [Google Translate](https://translate.google.com).
 
-Here are some ideas to get you started:
+You can reach me on my [contact page](https://www.fortnite.lol/contact).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here's some "cool" facts about me: 😎😎😎
++ 🐯 My favorite animal is a Tiger (obviously)
++ 🐱 I'm more of a cat-person
++ 📐 My favorite subject is Math
++ 🤺 My favorite game is Beat Saber
+
+### My Hobbies are:
++ ⚙️ Software Engineering
++ 🛠️ Reverse Engineering
++ 👓 VR Enthusiast
+
+### Prominent Languages
+- C#
+  - .NET
+  - Mono
+  - IL2CPP
+- JavaScript
+  - Node.JS
+- Lua
+  - LuaU
+
+### Languages I want to Learn (ranked important-IDC)
+- C++ (yesyesyesyesyes)
+- python (ai type beat)
+- java (Ewww)
+
+## My Stats
+
+yes I am using the special readme stats, don't bully me
+
+[![200Tigersbloxed's GitHub stats](https://github-readme-stats.vercel.app/api?username=200Tigersbloxed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=200Tigersbloxed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
