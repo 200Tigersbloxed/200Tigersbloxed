@@ -23,11 +23,12 @@ You can reach me on my [contact page](https://www.fortnite.lol/contact).
 - JavaScript
   - Node.JS
 - Lua
-  - LuaU
+  - Luau
 - Python
 
 ### Languages I want to Learn (ranked important-IDC)
 - C++ (yesyesyesyesyes)
+- Go
 - java (Ewww)
 
 ## My Stats
