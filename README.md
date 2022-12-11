@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-I'm 200Tigersbloxed, but you can refer to me as Tigers for short. I only know English, so anything in another language is going straight to [Google Translate](https://translate.google.com).
+I'm 200Tigersbloxed, but you can refer to me as Tigers for short. I only know English, so anything in another language is going straight to [DeepL](https://www.deepl.com/translator) or [Google Translate](https://translate.google.com).
 
 You can reach me on my [contact page](https://www.fortnite.lol/contact).
 
@@ -26,10 +26,15 @@ You can reach me on my [contact page](https://www.fortnite.lol/contact).
   - Luau
 - Python
 
+### Currently Learning:
++ Java
++ Go
++ Cybersecurity
+
 ### Languages I want to Learn (ranked important-IDC)
+- C
 - C++ (yesyesyesyesyes)
-- Go
-- java (Ewww)
+- Rust
 
 ## My Stats
 
