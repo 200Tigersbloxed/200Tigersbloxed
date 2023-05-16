@@ -14,12 +14,14 @@ You can reach me on my [contact page](https://www.fortnite.lol/contact).
 + ⚙️ Software Engineering
 + 🛠️ Reverse Engineering
 + 👓 VR Enthusiast
++ 🔐 Cybersecurity
 
 ### Prominent Languages
 - C#
   - .NET
   - Mono
   - IL2CPP
+- Java
 - JavaScript
   - Node.JS
 - Lua
@@ -27,9 +29,7 @@ You can reach me on my [contact page](https://www.fortnite.lol/contact).
 - Python
 
 ### Currently Learning:
-+ Java
 + Go
-+ Cybersecurity
 
 ### Languages I want to Learn (ranked important-IDC)
 - C
